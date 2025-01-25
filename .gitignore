@@ -1,0 +1,12 @@
+tags
+test.sh
+.luarc.json
+nvim
+.stylua.toml
+
+spell/
+lazy-lock.json
+doc
+LICENSE.md
+lua
+README.md
